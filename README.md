@@ -18,10 +18,10 @@
 
 <img src="ss/3.png" alt="alt text" width="300">
 
-Link sourcode : [https://github.com/fikiap23/UTS-PAM_Pizza.git](https://github.com/fikiap23/UTS-PAM_Pizza.git)
+Link sourcode : [https://github.com/fikiap23/flutter_salam_login.git](https://github.com/fikiap23/flutter_salam_login.git)
 
 ### Kontak
 
 Jika Anda memiliki pertanyaan atau komentar, silakan hubungi Fiki Aprian melalui email di [fikiaprian23@gmail.com](mailto:fikiaprian23@gmail.com).
 
-Terima kasih telah mengunjungi proyek UTS Prak PAM ini!
+Terima kasih telah mengunjungi proyek ini!
