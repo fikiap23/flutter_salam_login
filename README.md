@@ -4,7 +4,7 @@
 
 **NIM**: 1217050058
 
-**Kelas**: Prak PAM C
+**Kelas**: Prak PAM B
 
 ## Screenshot Aplikasi
 
